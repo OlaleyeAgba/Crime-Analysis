@@ -5,14 +5,14 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Data Sources](#data-source)
+- [Data Sources](#data-sourceS)
 - [Tools](#tools)
 - [Data Cleaning/Preparation](#data-cleaning-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Results/Findings](#results-findings)
-- [Recommendation](#recommedations)
-- [Reference](#references)
+- [Recommendation](#recommedation)
+- [Reference](#reference)
 
 ## Project Overview
  This Project aims to provide insight into crime in a particular region over a given period of years. By analysing various aspects of crime data, we seek to identify trends in crime, make data-driven recommendations and gain a deeper insight into the crime.
