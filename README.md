@@ -11,8 +11,8 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Results/Findings](#results-findings)
-- [Recommedations](#recommedations)
-- [References](#references)
+- [Recommendation](#recommedations)
+- [Reference](#references)
 
 ## Project Overview
  This Project aims to provide insight into crime in a particular region over a given period of years. By analysing various aspects of crime data, we seek to identify trends in crime, make data-driven recommendations and gain a deeper insight into the crime.
