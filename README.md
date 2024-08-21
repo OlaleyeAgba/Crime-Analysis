@@ -2,6 +2,17 @@
 
 ![1724205990114](https://github.com/user-attachments/assets/6e9cbf7f-1165-40b6-bcb1-ace764fefb42)
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-source)
+- [Tools](#tools)
+- [Data Cleaning/Preparation](#data-cleaning-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results/Findings](#results-findings)
+- [Recommedations](#recommedations)
+- [References](#references)
 
 ## Project Overview
  This Project aims to provide insight into crime in a particular region over a given period of years. By analysing various aspects of crime data, we seek to identify trends in crime, make data-driven recommendations and gain a deeper insight into the crime.
