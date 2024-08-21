@@ -2,6 +2,7 @@
 
 ## Project Overview
  This Project aims to provide insight into crime in a particular region over a given period of years. By analysing various aspects of crime data, we seek to identify trends in crime, make data-driven recommendations and gain a deeper insight into the crime.
+ PowerBI Link[https://app.powerbi.com/groups/me/reports/40415ea6-1c67-45c5-817c-1664ac6f26b2/afbd79c49c617fd434ec?experience=power-bi]
 
  ## Data Sources
  Crime Data: The primary dataset used for this analysis is the 'Crime_data.csv' containing detailed information about crimes
@@ -32,7 +33,15 @@ The analysis results are summarised as follows:
 2. The overall Peak crime is in October while the Sunday for weekdays.
 3. Based on Time-Range, the peak crime is between 12:00 AM and 2:59 AM.
 4. Violence and Sexual Offence as the highest crime number.
-5. The overall resolved rate of crime id 70.4% while Unresolved rate is 29.96%
+5. The overall resolved rate of crime is 70.4% while the Unresolved rate is 29.96%
 6. Austria has the highest crime number
 
+## Recommendation
+Based on the analysis, we recommned the following actions:
+-  Law enforcement agencies should be station region where there is high crime rate and high crime time.
+-  There should Public awarness on crime in various institute like schools, religious organisation, Malls etc.
+
+
+## Reference
+Youtube - Data Tutorial[]
  
