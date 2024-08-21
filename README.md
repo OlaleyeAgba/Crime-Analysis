@@ -37,11 +37,11 @@ The analysis results are summarised as follows:
 6. Austria has the highest crime number
 
 ## Recommendation
-Based on the analysis, we recommned the following actions:
--  Law enforcement agencies should be station region where there is high crime rate and high crime time.
--  There should Public awarness on crime in various institute like schools, religious organisation, Malls etc.
+Based on the analysis, we recommended the following actions:
+-  Law enforcement agencies should be stationed in regions where there is a high crime rate and high crime time.
+-  There should be Public awareness of crime in various institutes like schools, religious organisations, Malls etc.
 
 
 ## Reference
-Youtube - Data Tutorial[]
+Youtube - Data Tutorial[https://youtu.be/c8S17REk-IA?si=4gbWlFSvefxfXCXH]
  
