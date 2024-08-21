@@ -1,5 +1,8 @@
 # Crime-Analysis
 
+![1724205990114](https://github.com/user-attachments/assets/6e9cbf7f-1165-40b6-bcb1-ace764fefb42)
+
+
 ## Project Overview
  This Project aims to provide insight into crime in a particular region over a given period of years. By analysing various aspects of crime data, we seek to identify trends in crime, make data-driven recommendations and gain a deeper insight into the crime.
  [PowerBI_Link](https://app.powerbi.com/groups/me/reports/40415ea6-1c67-45c5-817c-1664ac6f26b2/afbd79c49c617fd434ec?experience=power-bi)
