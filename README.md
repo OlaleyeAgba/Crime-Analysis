@@ -2,7 +2,7 @@
 
 ## Project Overview
  This Project aims to provide insight into crime in a particular region over a given period of years. By analysing various aspects of crime data, we seek to identify trends in crime, make data-driven recommendations and gain a deeper insight into the crime.
- PowerBI_Link[https://app.powerbi.com/groups/me/reports/40415ea6-1c67-45c5-817c-1664ac6f26b2/afbd79c49c617fd434ec?experience=power-bi]
+ [PowerBI_Link](https://app.powerbi.com/groups/me/reports/40415ea6-1c67-45c5-817c-1664ac6f26b2/afbd79c49c617fd434ec?experience=power-bi)
 
  ## Data Sources
  Crime Data: The primary dataset used for this analysis is the 'Crime_data.csv' containing detailed information about crimes
@@ -43,5 +43,5 @@ Based on the analysis, we recommended the following actions:
 
 
 ## Reference
-Youtube - Data Tutorial[https://youtu.be/c8S17REk-IA?si=4gbWlFSvefxfXCXH]
+Youtube - [Data Tutorial](https://youtu.be/c8S17REk-IA?si=4gbWlFSvefxfXCXH)
  
