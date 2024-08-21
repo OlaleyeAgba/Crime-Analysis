@@ -28,6 +28,11 @@ Data Preparation tasks include:
 
 ## Results/Findings
 The analysis results are summarised as follows:
-1. A total crime of 2500 between 2021 - 2023, 2022 has the highest crime number and there is a decrease of 205 the following year
-2. 
-3.  
+1. A total crime of 2500 between 2021 - 2023, 2022 has the highest crime number and there is a decrease of 205 the following year.
+2. The overall Peak crime is in October while the Sunday for weekdays.
+3. Based on Time-Range, the peak crime is between 12:00 AM and 2:59 AM.
+4. Violence and Sexual Offence as the highest crime number.
+5. The overall resolved rate of crime id 70.4% while Unresolved rate is 29.96%
+6. Austria has the highest crime number
+
+ 
